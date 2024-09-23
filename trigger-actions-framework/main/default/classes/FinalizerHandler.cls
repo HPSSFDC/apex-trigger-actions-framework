@@ -250,3 +250,4 @@ public with sharing virtual class FinalizerHandler {
 	private class FinalizerException extends Exception {
 	}
 }
+
