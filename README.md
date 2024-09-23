@@ -1,4 +1,4 @@
-# Apex Trigger Actions Framework
+# Apex Trigger Actions Framework .
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=mitchspano&amp;repo=apex-trigger-actions-framework">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
